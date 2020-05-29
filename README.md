@@ -1,6 +1,6 @@
-# Responsive-Portfolio
-Responsive Portfolio
-https://stevenbowler.github.io/Responsive-Portfolio/
+# Portfolio
+Portfolio
+https://stevenbowler.github.io/Portfolio/
 
 Select Portfolio dropdown from the navbar and see projects to date.
 
